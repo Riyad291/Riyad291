@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Riyad291
-- 👀 I’m interested in Software Engineering 
-- 🌱 I’m currently learning Web Developement and Programming Language
+- 👀 I’m interested in Software Developement.  
+- 🌱 I’m currently learning Web Developement and Programming Language.
 - 💞️ I’m looking to collaborate on learning habits.
 - 📫 How to reach me email- a.yeasin291@gmail.com/ p/w- 347-231-0375
 
